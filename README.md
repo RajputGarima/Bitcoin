@@ -19,3 +19,4 @@ The code runs infinitely as a bitcoin system is supposed to do. Random transacti
 
 
 
+Refer to REPORT.pdf for detailed implementation.
